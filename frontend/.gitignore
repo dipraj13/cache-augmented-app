@@ -21,3 +21,24 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# .gitignore
+# Python
+./backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node/React
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# Large files
+*.pt
+*.bin
+*.pth
+*.dll
+*.lib
+
+./backend/.env
