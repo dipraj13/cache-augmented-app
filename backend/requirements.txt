@@ -1,0 +1,8 @@
+flask
+python-dotenv
+groq
+transformers
+torch
+PyPDF2
+flask-cors
+sentence-transformers

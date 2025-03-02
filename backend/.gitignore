@@ -1,0 +1,19 @@
+# .gitignore
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node/React
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# Large files
+*.pt
+*.bin
+*.pth
+*.dll
+*.lib
